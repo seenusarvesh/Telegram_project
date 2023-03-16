@@ -11,3 +11,4 @@ Telegram creation start up here,
 5.Add mail address.
 6.Add audio and video files here.
 7.Add images
+8.train games
